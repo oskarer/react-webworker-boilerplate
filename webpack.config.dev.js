@@ -38,4 +38,9 @@ module.exports = {
       ]
     }]
   },
+  resolve: {
+    alias: {
+      'react-worker-dom': path.resolve(__dirname, './src/react-worker-dom/src'),
+    },
+  },
 };

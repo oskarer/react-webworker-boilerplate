@@ -3,5 +3,5 @@ import React from 'react';
 
 export default () =>
   (
-    <div>Kaffgse OneOneSSSOWWsRedAASd</div>
+    <div>Kaffgse OneOneSSSOWWRedAASd</div>
   )
