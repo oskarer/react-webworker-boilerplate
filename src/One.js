@@ -1,12 +1,16 @@
 import React from 'react';
-// import './styles/one.scss';
+import CSSModules from 'react-css-modules';
+
+import styles from './One.css';
 import OneOne from './OneOne';
 
-export default class One extends React.Component {
+class One extends React.Component {
   render() {
-    return <div>
-      Test sho bresdAAgsASsSSwesSW
+    return <div styleName='one'>
+      Test sho
       <OneOne />
     </div>;
   }
 }
+
+export default CSSModules(One, styles);
