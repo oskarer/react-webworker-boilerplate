@@ -1,7 +1,7 @@
 import React from 'react';
 import CSSModules from 'react-css-modules';
 
-import styles from './One.css';
+import styles from './One.scss';
 import OneOne from './OneOne';
 
 class One extends React.Component {
