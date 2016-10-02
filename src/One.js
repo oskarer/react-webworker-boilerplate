@@ -7,7 +7,7 @@ import OneOne from './OneOne';
 class One extends React.Component {
   render() {
     return <div styleName='one'>
-      Test shos
+      Test shosss
       <OneOne />
     </div>;
   }

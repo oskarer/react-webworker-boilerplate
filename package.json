@@ -1,13 +1,14 @@
 {
-  "name": "webpack-dev-server-webworker-test",
+  "name": "react-webworker-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "dev-server.js",
   "dependencies": {
+    "invariant": "2.2.0",
     "react": "15.3.2",
     "react-dom": "15.3.2",
     "react-hot-loader": "3.0.0-beta.5",
-    "invariant": "2.2.0"
+    "react-router": "^4.0.0-alpha.4"
   },
   "devDependencies": {
     "babel-core": "^6.14.0",
@@ -30,12 +31,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oskarer/webpack-dev-server-webworker-test.git"
+    "url": "git+https://github.com/oskarer/react-webworker-boilerplate.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oskarer/webpack-dev-server-webworker-test/issues"
+    "url": "https://github.com/oskarer/react-webworker-boilerplate/issues"
   },
-  "homepage": "https://github.com/oskarer/webpack-dev-server-webworker-test#readme"
+  "homepage": "https://github.com/oskarer/react-webworker-boilerplate#readme"
 }
